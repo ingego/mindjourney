@@ -83,3 +83,15 @@ success --> [*]
 init --> stateCheck
 stateCheck --> linkService
 ```
+
+## Localization 
+** mongoDB ** 
+
+## Settings 
+** MySQL **
+## FileStorage 
+** Alfred **
+## Push 
+** firebase **
+## PayGateway 
+** Alfred **
